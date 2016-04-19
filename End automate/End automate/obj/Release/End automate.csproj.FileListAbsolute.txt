@@ -1,0 +1,6 @@
+F:\Programming\C#\My practice\End automate\End automate\bin\Release\End automate.exe.config
+F:\Programming\C#\My practice\End automate\End automate\bin\Release\End automate.exe
+F:\Programming\C#\My practice\End automate\End automate\bin\Release\End automate.pdb
+F:\Programming\C#\My practice\End automate\End automate\obj\Release\End automate.exe
+F:\Programming\C#\My practice\End automate\End automate\obj\Release\End automate.pdb
+F:\Programming\C#\My practice\End automate\End automate\obj\Release\End automate.csprojResolveAssemblyReference.cache
